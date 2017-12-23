@@ -15,6 +15,8 @@ user
 admini
 !admin
 password
+p4ssw0rd
+P4ssw0rd
 anonymous
 Admin12345
 usuario
