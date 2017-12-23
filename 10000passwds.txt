@@ -2,10 +2,10 @@ root
 admin
 Admin
 Administrador
+administrador
 Administrator
+administrator
 user
-support
-usuario
 1234
 12345
 123456
@@ -16,6 +16,7 @@ usuario
 password
 anonymous
 Admin12345
+usuario
 qwerty
 dragon
 pussy
