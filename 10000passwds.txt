@@ -12,6 +12,7 @@ user
 1234567
 12345678
 87654321
+admini
 !admin
 password
 anonymous
