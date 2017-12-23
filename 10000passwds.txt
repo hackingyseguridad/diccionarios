@@ -13,6 +13,7 @@ Administrator
 !admin
 password
 anonymous
+Admin12345
 qwerty
 dragon
 pussy
