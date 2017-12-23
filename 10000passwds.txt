@@ -1,9 +1,11 @@
 root
-user
 admin
 Admin
 Administrador
 Administrator
+user
+support
+usuario
 1234
 12345
 123456
