@@ -20,6 +20,7 @@ P4ssw0rd
 anonymous
 Admin12345
 usuario
+supervisor
 qwerty
 dragon
 pussy
