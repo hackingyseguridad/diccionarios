@@ -37,6 +37,8 @@ shadow
 master
 jennifer
 111111
+0000000
+00000000
 2000
 jordan
 superman
