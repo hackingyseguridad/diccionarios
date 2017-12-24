@@ -21,6 +21,7 @@ anonymous
 Admin12345
 usuario
 supervisor
+admin1234
 qwerty
 dragon
 pussy
