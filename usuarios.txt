@@ -6,6 +6,7 @@ administrador
 Administrator
 administrator
 user
+user1
 1234
 12345
 123456
@@ -36,3 +37,14 @@ access
 123123
 666666
 internet
+mysql
+info
+guest
+oracle
+cisco
+nagios
+postgres
+uploader
+abc123
+user2
+user3
