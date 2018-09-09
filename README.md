@@ -1,1 +1,6 @@
-# 10k P4ssw0rd! Las 10000 contraseñas mas usadas 
+# Diccionarios:
+# 
+# diccionario.txt Usuarios y contraseñas mas usadas
+# usuarios.txt Solo usuarios login mas cumunes
+# 
+#
