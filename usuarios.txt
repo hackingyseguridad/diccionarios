@@ -35,6 +35,8 @@ access
 123456789
 654321
 123123
+soporte
+support
 666666
 internet
 mysql
@@ -48,3 +50,4 @@ uploader
 abc123
 user2
 user3
+User
