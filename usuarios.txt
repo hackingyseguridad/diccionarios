@@ -55,6 +55,7 @@ default
 1234567890
 private
 PASSWORD
+Password
 admin1234
 123admin
 1q2w3e
