@@ -1,6 +1,6 @@
 # Diccionarios de: usuarios, passwords, xss, dorks, etc..
 #
-diccionario.txt Usuarios y contraseñas mas usadas en lengua castellana 
+diccionario.txt Usuarios y contraseñas mas usadas, el 99% en lengua castellana 
 
 usuarios.txt Solo usuarios login mas cumunes
 
