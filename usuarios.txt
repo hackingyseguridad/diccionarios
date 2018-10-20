@@ -67,7 +67,6 @@ admin1234
 654321
 Cisco
 ubuntu
-test
 sybase
 0101
 boot
