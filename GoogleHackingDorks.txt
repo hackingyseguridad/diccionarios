@@ -1,4 +1,5 @@
 site:hackingyseguridad.com inurl:download.php
+palabra_buscar -inurl:(htm|html|php|pls|txt) intitle:index.of “last modified” (mp4|wma|aac|avi)
 top10.php?cat=
 view_items.php?id=
 home.php?cat=
