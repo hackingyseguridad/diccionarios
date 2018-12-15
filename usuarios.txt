@@ -15,6 +15,7 @@ user1
 87654321
 admini
 password
+password1
 p4ssw0rd
 P4ssw0rd
 anonymous
@@ -58,6 +59,7 @@ PASSWORD
 Password
 admin1234
 123admin
+aa123456
 1q2w3e
 7654321
 1111
@@ -72,3 +74,5 @@ sybase
 boot
 acceso
 anonymous
+!@#$%^&*
+monkey
