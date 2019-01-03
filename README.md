@@ -4,7 +4,6 @@
 
 #
 
-#
 diccionario.txt Usuarios y contraseñas mas usadas, el 99% en lengua castellana 
 
 Descargar:
