@@ -2,6 +2,7 @@
 
 <img style="float:left" alt="netspy logo" src="https://github.com/hackingyseguridad/diccionarios/blob/master/25pass.png">
 #
+
 #
 diccionario.txt Usuarios y contraseñas mas usadas, el 99% en lengua castellana 
 
