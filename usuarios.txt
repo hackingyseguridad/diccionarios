@@ -83,3 +83,5 @@ qwerty
 sunshine
 " o 1 = 1 --
 toor
+siadmin
+soadmin
