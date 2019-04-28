@@ -85,3 +85,4 @@ sunshine
 toor
 siadmin
 soadmin
+superuser
