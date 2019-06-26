@@ -86,8 +86,6 @@ toor
 siadmin
 soadmin
 superuser
-admin
-administrator
 anonymous
 backup
 bee
