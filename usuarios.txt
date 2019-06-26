@@ -24,7 +24,7 @@ admin1234
 abc123
 master
 111111
-0
+0000
 2000
 test
 access
