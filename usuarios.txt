@@ -38,6 +38,15 @@ access
 soporte
 support
 666666
+P@ssw0rd00
+P@ssw0rd01
+P@ssw0rd02
+P@ssw0rd03
+P@ssw0rd
+P@ssw0rd0
+P@ssw0rd1
+P@ssw0rd2
+P@ssw0rd3
 internet
 mysql
 info
