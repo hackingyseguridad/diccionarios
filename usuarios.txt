@@ -47,6 +47,7 @@ P@ssw0rd0
 P@ssw0rd1
 P@ssw0rd2
 P@ssw0rd3
+passw0rd
 internet
 mysql
 info
