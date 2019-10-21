@@ -109,3 +109,5 @@ webmaster
 www-data
 Fortimanager_Access
 temporal
+sftp
+sftp1
