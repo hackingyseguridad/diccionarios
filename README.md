@@ -10,7 +10,7 @@ Descargar:
 
 wget https://raw.githubusercontent.com/hackingyseguridad/diccionarios/master/diccionario.txt
 
-usuarios.txt Solo 100 usuarios login mas cumunes
+usuarios.txt Solo 500 usuarios login mas cumunes
 
 Descargar:
 
