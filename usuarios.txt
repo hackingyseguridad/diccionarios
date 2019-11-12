@@ -129,3 +129,9 @@ adminsupport
 pepe
 operador
 antonio
+ossadm
+ossuser
+dbuser
+backupuer
+Changeme_123
+
