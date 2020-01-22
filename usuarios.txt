@@ -42,7 +42,6 @@ user4
 user3
 user2
 user1
-user
 uploader
 unknown
 ubuntu
