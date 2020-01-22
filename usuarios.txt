@@ -112,7 +112,6 @@ root001
 root00
 root@123
 root!@#$
-root
 rkqldk
 ripper
 redhat
