@@ -5,6 +5,7 @@ user
 Administrator
 administrador
 12345
+123456
 zzzzz
 zxm10
 zxcxz
@@ -757,7 +758,6 @@ $chwarzepumpe
 142536
 123654
 123465
-123456
 123321
 123.321
 123123
@@ -773,7 +773,6 @@ $chwarzepumpe
 33333
 22222
 22222
-12345
 12321
 11111
 4321
