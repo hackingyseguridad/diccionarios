@@ -343,7 +343,7 @@ WONDERLAND
 wodj
 winterm
 WINDOWS_PASSTHRU
-wg (touch password)
+wg
 weblogic
 webibm
 webdb
@@ -657,7 +657,7 @@ AM
 alfarome
 adtran
 adminttd
-ADMIN (23646)
+ADMIN
 adm
 adb234
 adaptec
