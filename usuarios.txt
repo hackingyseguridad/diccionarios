@@ -607,7 +607,9 @@ Col2ogro2
 COGNOS
 CMOSPWD
 cmaker
-Cisco router
+Cisco 
+router
+Admin123
 checksys
 checkfsys
 cgadmin
