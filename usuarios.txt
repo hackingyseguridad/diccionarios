@@ -804,3 +804,5 @@ testin
 app
 teladmin
 mother
+cuadmin
+adminpass
