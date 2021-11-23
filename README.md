@@ -8,7 +8,7 @@ Descargar:
 
 wget https://raw.githubusercontent.com/hackingyseguridad/diccionarios/master/diccionario.txt
 
-# usuarios.txt Solo 1000 usuarios o claves, mas cumunes
+# usuarios.txt  1000 usuarios o claves, mas cumunes
 
 Descargar:
 
