@@ -806,3 +806,8 @@ teladmin
 mother
 cuadmin
 adminpass
+Temporal
+Temporal00
+Temporal01
+Temporal0
+TEmporal1
