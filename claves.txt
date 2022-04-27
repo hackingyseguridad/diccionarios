@@ -416,12 +416,9 @@ sp99dd
 SnuFG5
 smile
 shiva
-setup/nopassword
 setup
 service
 sertafu
-Serial Number
-Serial Num
 SECONDARY
 secofr
 secoff
@@ -550,7 +547,6 @@ ILMI
 ibm
 HPP189
 HPONLY
-HPOFFICE DATA
 HPOFFICE
 HP
 hewlpack
