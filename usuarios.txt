@@ -297,6 +297,13 @@ clone
 cisco123
 cisco
 chinaidc!@#$%^&
+Changeme2022
+Changeme123
+ChangeMe123!
+changeme123
+¡ChangeMe123! 
+123456789012345
+1234567812345678
 changeme123
 Changeme_123
 changeme@123
