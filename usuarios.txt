@@ -511,6 +511,7 @@ CDEMOCOR
 ccrusr
 CCC
 cc
+emergencia
 CATALOG
 cascade
 CAROLIAN
