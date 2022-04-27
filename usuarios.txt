@@ -559,7 +559,6 @@ adaptec
 access
 aammii
 A52896nG93096a
-A.M.I
 3ep5w2u
 3com
 3ascotel
@@ -639,3 +638,16 @@ teladmin
 mother
 cuadmin
 adminpass
+admin2
+admin123456789
+admin12345678
+admin1234567
+admin123456
+admin12345
+admin1234
+admin123
+admin12
+admin1
+admin001
+admin00
+admin@123
