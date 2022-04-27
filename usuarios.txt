@@ -272,7 +272,6 @@ trocse
 Trintech
 trade
 tracell
-touchpwd=
 toshy99
 Toshiba
 toplayer
@@ -310,7 +309,6 @@ sp99dd
 SnuFG5
 smile
 shiva
-setup/nopassword
 setup
 service
 sertafu
@@ -478,7 +476,6 @@ diamond
 dhs3mt
 DEMO8
 Dell
-default.password
 DBSNMP
 dbps
 dbase
@@ -543,7 +540,6 @@ APPS
 apc
 aPAf
 ANYCOM
-any@
 amipswd
 AMIDECOD
 AMI.KEY
