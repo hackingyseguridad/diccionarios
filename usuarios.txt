@@ -314,8 +314,6 @@ setup/nopassword
 setup
 service
 sertafu
-Serial Number
-Serial Num
 SECONDARY
 secofr
 secoff
@@ -443,7 +441,6 @@ HPOFFICE DATA
 HPOFFICE
 HP
 hewlpack
-HEWITT RAND
 help
 hello
 hdms
@@ -495,7 +492,7 @@ CTXSYS
 Crystal
 correct
 Congress
-CONDO,
+CONDO
 condo
 Compaq
 COMPANY
@@ -549,7 +546,6 @@ ANYCOM
 any@
 amipswd
 AMIDECOD
-AMI~
 AMI.KEY
 amber
 AM
