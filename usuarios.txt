@@ -685,3 +685,5 @@ daemon
 controlm
 bin
 adm
+both
+role1
