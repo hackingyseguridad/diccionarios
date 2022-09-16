@@ -26,3 +26,4 @@ proxy
 www-data
 backup
 nobody
+anonymous
