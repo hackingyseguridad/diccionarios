@@ -27,3 +27,4 @@ www-data
 backup
 nobody
 anonymous
+Anonymous
