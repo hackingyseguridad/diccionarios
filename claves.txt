@@ -6,6 +6,8 @@ Administrator
 administrador
 12345
 123456
+anonymous
+Anonymous
 zzzzz
 zxm10
 zxcxz
@@ -332,7 +334,6 @@ apple
 anything
 antonio
 ans#150
-anonymous
 angel123
 alpine
 alpin
