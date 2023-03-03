@@ -689,3 +689,5 @@ both
 role1
 Temporal01
 USS1112
+saptestap
+azureuser
