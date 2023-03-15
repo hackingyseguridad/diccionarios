@@ -18,3 +18,4 @@ password
 antonio
 anonymous
 Anonymous
+guest
