@@ -28,3 +28,4 @@ backup
 nobody
 anonymous
 Anonymous
+guest
