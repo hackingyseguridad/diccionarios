@@ -853,3 +853,4 @@ changeme2022
 xampp
 _password
 nologin
+rpcuser
