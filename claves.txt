@@ -856,3 +856,13 @@ nologin
 rpcuser
 qwe123Q#
 abcdefghi
+Passw001
+passw001
+Passwd01
+passwd01
+passwd00
+Passwd00
+passwd02
+Passwd02
+Passwd03
+passwd03
