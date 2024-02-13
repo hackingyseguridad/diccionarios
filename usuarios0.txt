@@ -24,6 +24,7 @@ news
 uucp
 proxy
 pepe
+pepe1
 www-data
 backup
 nobody
