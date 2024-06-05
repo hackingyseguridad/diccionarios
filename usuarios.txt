@@ -710,3 +710,7 @@ ftpuser
 role
 UGIH901
 USMH901
+git
+gitlab-psql
+registry
+gitlab-prometheus
