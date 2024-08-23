@@ -33,3 +33,6 @@ Anonymous
 guest
 Pruebas
 pruebas
+temporal
+Temporal
+TEMPORAL
