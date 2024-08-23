@@ -716,3 +716,5 @@ registry
 gitlab-prometheus
 TIENDATEST
 TEMPORAL
+pruebas
+prueba
