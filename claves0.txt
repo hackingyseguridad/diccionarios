@@ -20,3 +20,6 @@ antonio
 anonymous
 Anonymous
 guest
+temporal
+TEMPORAL
+pruebas
