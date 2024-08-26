@@ -873,3 +873,13 @@ passwd03
 1122
 1122334455
 aa123456
+987654321
+876543210
+antonio
+anonymous
+Anonymous
+guest
+temporal
+TEMPORAL
+pruebas
+test
