@@ -9,6 +9,7 @@ administrador
 anonymous
 Anonymous
 admini
+Password1
 zzzzz
 zxm10
 zxcxz
