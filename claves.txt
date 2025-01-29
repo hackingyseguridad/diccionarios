@@ -860,3 +860,14 @@ passwd03
 101010
 1122
 aa123456
+movistar
+telefonica
+vodafone
+orange
+masmovil
+yoigo:
+lowi
+finetwork
+digi
+o2
+jazztel
