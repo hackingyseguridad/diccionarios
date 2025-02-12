@@ -89051,3 +89051,13 @@ zhong
 zipfile
 secretos
 /admin/login.jsp
+/api.bing.com/osjson.aspx
+/api/javascript-errors
+/api/nouser/logout
+/api/reportUserActivity
+/api/search/
+/api/searchwiki/
+/apis.google.com/js/platform.js
+/api/user/facebook-authenticated
+/api/user/getMyCredits
+/api/user/set-kvp
