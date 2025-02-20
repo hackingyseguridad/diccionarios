@@ -1,4 +1,4 @@
-## Diccionarios de: usuarios, claves, passwords, nombre de ficheros, carpetas, xss, dorks, etc..
+### Diccionarios de: usuarios, claves, passwords, nombre de ficheros, carpetas, xss, dorks, etc..
 
 <img style="float:left" alt="netspy logo" src="https://github.com/hackingyseguridad/diccionarios/blob/master/25pass.png">
 
@@ -35,6 +35,7 @@ Descargar:
 wget https://raw.githubusercontent.com/hackingyseguridad/diccionarios/master/dorks.txt
 #
 #
-## www.hackingyseguridad.com
+
+### http://www.hackingyseguridad.com/
 
 http://www.softg.nl/passwords.html
