@@ -89408,3 +89408,7 @@ ncmfemuleto
 cotaamuleto
 vtvol
 default
+/cgi-bin/../../../../../../../../../../bin/sh
+cgi-bin/../../../../../../../../../../bin/sh
+
+
