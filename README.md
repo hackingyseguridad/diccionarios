@@ -32,7 +32,7 @@ wget https://raw.githubusercontent.com/hackingyseguridad/diccionarios/master/xss
 
 Descargar:
 
-wget https://raw.githubusercontent.com/hackingyseguridad/diccionarios/master/dorks.txt
+wget https://github.com/hackingyseguridad/diccionarios/blob/master/GoogleHackingDorks.txt
 #
 #
 
