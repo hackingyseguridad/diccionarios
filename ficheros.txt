@@ -89452,3 +89452,5 @@ t3
 t4
 /wp-admin/admin-ajax.php?template=../../../../../../../etc/passwd&value=a&min_symbols=1
 function2.asp
+file_uploader_ok.asp
+find_pwd.asp
