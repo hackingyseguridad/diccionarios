@@ -36,6 +36,6 @@ wget https://raw.githubusercontent.com/hackingyseguridad/diccionarios/master/dor
 #
 #
 
-### http://www.hackingyseguridad.com/
 
-http://www.softg.nl/passwords.html
+http://www.hackingyseguridad.com/
+
