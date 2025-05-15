@@ -89933,3 +89933,8 @@ remote.sh
 2fremote.sh
 Upload.php
 Upload/
+/sap/public/info
+/irj/portal/sap/bc/webdynpro/sap/ZWDC_METADATA_UPLDR
+/sap/bc/webdynpro/sap/ZWDC_METADATA_UPLDR
+/irj/portal/irj/servlet_jsp/irj/root/EvilPayload/shell.jsp
+
