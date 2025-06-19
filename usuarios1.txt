@@ -725,3 +725,4 @@ msf_user
 msfadmin
 sex
 nimda
+telecomadmin
