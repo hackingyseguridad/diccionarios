@@ -1,7 +1,6 @@
 ### Diccionarios de: usuarios, claves, passwords, nombre de ficheros, carpetas, xss, pathtraversal, dorks, etc..
 
-
-
+###
 <img style="float:left" alt="netspy logo" src="https://github.com/hackingyseguridad/diccionarios/blob/master/25pass.png">
 
 ### diccionario.txt Usuarios y contraseñas mas usadas, en lengua castellana ( español ) 
