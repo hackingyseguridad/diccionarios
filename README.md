@@ -24,13 +24,13 @@ Descargar:
 
 wget https://raw.githubusercontent.com/hackingyseguridad/diccionarios/master/ficheros.txt
 
-### xss.txt Para pruebas XSS sobre WEB
+### xss.txt para pruebas XSS sobre WEB
 
 Descargar:
 
 wget https://raw.githubusercontent.com/hackingyseguridad/diccionarios/master/xss.txt
 
-### dorks.txt. Para busqueda en google de vulnerabilidades web y SQLi
+### dorks.txt. para busqueda en google de vulnerabilidades web y SQLi
 
 Descargar:
 
