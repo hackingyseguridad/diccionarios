@@ -89949,4 +89949,10 @@ webui
 /auth/updateDeptCode
 /auth/deleteDeptCode/
 /auth/addCompCode
-/auth/getCompCode/
+/auth/getCompCode//auth/login
+/auth/lsAgreed
+/auth/lsNotAgreed
+/auth/vhoAgreed
+/auth/addDeptCode
+/auth/getDeptCode/
+/auth/updateDeptCode
