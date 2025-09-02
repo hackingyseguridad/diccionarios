@@ -881,3 +881,7 @@ Temporal24
 Temporal25
 Temporal.123
 Huawei12#$
+Admin1234
+admin1234
+Admin12345
+admin12345
