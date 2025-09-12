@@ -89956,3 +89956,7 @@ webui
 /auth/addDeptCode
 /auth/getDeptCode/
 /auth/updateDeptCode
+simpleshell.php
+/simpleshell.php
+uploads/simpleshell.php
+/uploads/simpleshell.php
