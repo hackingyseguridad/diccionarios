@@ -89960,3 +89960,6 @@ simpleshell.php
 /simpleshell.php
 uploads/simpleshell.php
 /uploads/simpleshell.php
+/+CSCOU+/MacTunnelStart.jar 
+/+CSCOL+/csvrloader64.cab 
+/+CSCOL+/csvrloader.jar 
