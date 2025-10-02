@@ -1,4 +1,4 @@
-### Diccionarios de: usuarios, claves, passwords, nombre de ficheros, carpetas, xss, pathtraversal, dorks, etc..
+### Diccionarios de: usuarios, claves, passwords, nombre de ficheros, carpetas, xss, pathtraversal, dorks, etc...
 #
 **usuarios.txt** / usuarios0-1.txt: Nombres de usuario comunes para fuerza bruta.
 
