@@ -89977,3 +89977,8 @@ login.cgi?
 news.cgi?
 upload.cgi?
 /upload.cgi?
+/api/fabric/device/status
+/migadmin/cgi-bin/x.cgi 
+/cgi-bin/x.cgi 
+/x.cgi
+x.cgi
