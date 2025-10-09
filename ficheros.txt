@@ -89982,3 +89982,7 @@ upload.cgi?
 /cgi-bin/x.cgi 
 /x.cgi
 x.cgi
+next.js
+Next.js
+/next.js
+/Next.js
