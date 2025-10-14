@@ -89988,3 +89988,4 @@ Next.js
 /Next.js
 /portal/loginpage.aspx
 portal/loginpage.aspx
+/wp-json/wp/v2/users 
