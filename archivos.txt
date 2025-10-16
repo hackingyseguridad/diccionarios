@@ -17126,3 +17126,5 @@ ztrap.php
 zurich.html
 zx.asp
 ~contact.php
+web-console
+/web-console
