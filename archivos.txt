@@ -17132,3 +17132,6 @@ web-console
 /META-INF/
 WEB-INF
 META-INF
+cmd
+cmd.jsp
+tomcat-users.xml
