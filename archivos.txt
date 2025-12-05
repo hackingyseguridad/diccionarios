@@ -17135,3 +17135,11 @@ META-INF
 cmd
 cmd.jsp
 tomcat-users.xml
+_next/static
+_next/data
+_next/image
+static
+public
+_next/static/development/_buildManifest.js
+/api/hello
+/api/test
