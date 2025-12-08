@@ -1,0 +1,9 @@
+/
+/_next/data/
+/_next/refresh/
+/_next/redirect/
+/_next/turbopack/flight
+/_next/webpack-hmr
+/_next/server-actions
+/_react/flight
+/_next/flight
