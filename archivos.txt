@@ -17143,3 +17143,4 @@ public
 _next/static/development/_buildManifest.js
 /api/hello
 /api/test
+index.json
