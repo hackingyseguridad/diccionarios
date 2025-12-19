@@ -23,6 +23,8 @@
 
 **arvhivos.txt**: Lista de nombres de archivos comunes.
 
+**archivos_iis.txt**: listado de nombres de ficheros comunes sobre IIS (Internet Information Server).
+
 **asp.txt**: Diccionario para ataques a servidores ASP (Active Server Pages).
 
 **carpetas.txt**: Lista de nombres de carpetas comunes en servidores web.
