@@ -17144,3 +17144,5 @@ _next/static/development/_buildManifest.js
 /api/hello
 /api/test
 index.json
+/api/customer/updateprofile
+api/customer/updateprofile
