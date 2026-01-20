@@ -126,4 +126,5 @@ login.html
 index.htm
 index.html
 index.php
+rev.bin
 
