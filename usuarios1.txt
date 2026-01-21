@@ -726,3 +726,6 @@ msfadmin
 sex
 nimda
 telecomadmin
+azureuser
+emergencia
+saptest 
