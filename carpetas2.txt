@@ -7,3 +7,9 @@
 /_next/server-actions
 /_react/flight
 /_next/flight
+/WEB-INF/web.xml
+/WEB-INF/classes/applicationContext.xml
+/WEB-INF/classes/database.properties
+/conf/tomcat-users.xml
+/conf/server.xml
+/logs/catalina.out
