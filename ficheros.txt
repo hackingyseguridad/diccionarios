@@ -89992,4 +89992,6 @@ portal/loginpage.aspx
 webui/logoutconfirm.html
 /webui/logoutconfirm.html
 logoutconfirm.html
+/logon/LogonPoint/receiver/images/common/icon_vpn.ico
+logon/LogonPoint/receiver/images/common/icon_vpn.ico
 
