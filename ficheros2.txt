@@ -127,4 +127,4 @@ index.htm
 index.html
 index.php
 rev.bin
-
+/wp-admin/admin-ajax.php
