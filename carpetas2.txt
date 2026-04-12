@@ -9,6 +9,7 @@
 /api/beta/
 /api/beta/testing
 /api/admin/
+/api/version
 /api/admin/configuracion
 /api/admin/reportes
 /api/internal/health
