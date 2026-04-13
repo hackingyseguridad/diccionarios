@@ -81,6 +81,9 @@
 /api/status/
 /api/healthcheck/
 /api/ping/
+/API/system/users/
+/API/system/users/search
+
 
 
 
