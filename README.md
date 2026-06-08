@@ -1,4 +1,4 @@
-<img style="float:left" alt="http://hackingyseguridad.com/" src="https://github.com/hackingyseguridad/diccionarios/blob/main/banner.png">
+<img style="float:left" alt="http://hackingyseguridad.com/" src="https://github.com/hackingyseguridad/diccionarios/blob/master/banner.png">
 
 ---
 
