@@ -313,7 +313,17 @@ sh directorios.sh https://dominio.com
 
 ---
 
-#
-[hackingyseguridad.com](http://www.hackingyseguridad.com/)
+
 #
 
+# 
+
+<p align="center">
+  <img src="https://github.com/hackingyseguridad/diccionarios/blob/main/autor.png" alt="@antonio_taboada">
+</p>
+
+#
+
+<p align="center">
+  <a href="https://www.hackingyseguridad.com/">https://www.hackingyseguridad.com/</a>
+</p>
