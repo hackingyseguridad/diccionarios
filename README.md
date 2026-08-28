@@ -319,7 +319,7 @@ sh directorios.sh https://dominio.com
 # 
 
 <p align="center">
-  <img src="https://github.com/hackingyseguridad/diccionarios/blob/master/autor.png" alt="@antonio_taboada">
+  <img src="https://github.com/hackingyseguridad/diccionarios/blob/master/autor.png?raw=true" alt="@antonio_taboada" width="50%">
 </p>
 
 #
