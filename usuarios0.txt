@@ -36,3 +36,4 @@ pruebas
 temporal
 Temporal
 TEMPORAL
+manager
