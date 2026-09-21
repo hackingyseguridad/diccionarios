@@ -24,3 +24,4 @@ temporal
 TEMPORAL
 pruebas
 test
+manager
