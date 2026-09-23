@@ -83,6 +83,8 @@
 /api/ping/
 /API/system/users/
 /API/system/users/search
+/connec
+/cdm
 
 
 
