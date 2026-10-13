@@ -707,3 +707,4 @@ Admin04
 almacen
 jsiuser
 pruebasdth
+Supervisor
