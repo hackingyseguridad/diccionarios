@@ -50,6 +50,7 @@ manager.html
 myadmin/scripts/setup.php
 xmlrpc.php
 tmUnblock.cgi
+wp-login.php
 pma/scripts/setup.php
 %00
 /..;/
